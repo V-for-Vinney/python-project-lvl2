@@ -4,9 +4,11 @@ version = "0.1.0"
 description = ""
 authors = ["v-for-vinney"]
 repository = "https://github.com/V-for-Vinney/python-project-lvl2"
+
 packages = [
   { include = "gendiff" },
 ]
+
 
 [tool.poetry.dependencies]
 python = "^3.10"
