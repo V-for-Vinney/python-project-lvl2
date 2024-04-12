@@ -4,7 +4,7 @@ An educational project on Hexlet platform.
 
 ## Gendiff package
 
-Project 2.
+This is educational project №2. Check [here](https://asciinema.org/connect/a504526e-a5f6-4cec-81b2-8d7a814042cc) for usage example.
 
 [![GitHub Actions Status](https://github.com/V-for-Vinney/python-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/V-for-Vinney/python-project-lvl2/actions)
 
