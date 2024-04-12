@@ -3,7 +3,7 @@
 An educational project on Hexlet platform.
 
 [![GitHub Actions Status](https://github.com/V-for-Vinney/python-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/V-for-Vinney/python-project-lvl2/actions)
-[![Test and lint](https://github.com/V-for-Vinney/python-project-lvl2/workflows/pyci/badge.svg)](https://github.com/V-for-Vinney/python-project-lvl1/actions/workflows/pyci.yml)
+[![Test and lint](https://github.com/V-for-Vinney/python-project-lvl2/workflows/pyci/badge.svg)](https://github.com/V-for-Vinney/python-project-lvl2/actions/workflows/pyci.yml)
 [![Maintainability](https://api.codeclimate.com/v1/badges/eb3dd87e1aa839503cc9/maintainability)](https://codeclimate.com/github/V-for-Vinney/python-project-lvl2/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/eb3dd87e1aa839503cc9/test_coverage)](https://codeclimate.com/github/V-for-Vinney/python-project-lvl2/test_coverage)
 
