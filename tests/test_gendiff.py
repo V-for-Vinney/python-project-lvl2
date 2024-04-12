@@ -12,7 +12,7 @@ tgt_diff = """{
 
 
 def test_generate_diff():
-    first_file = "tests/fixtures/file1.json"
+    first_file = "tests/fixtures/file1.yaml"
     second_file = "tests/fixtures/file2.json"
     diff = generate_diff(first_file, second_file)
     assert diff == tgt_diff

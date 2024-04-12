@@ -1,10 +1,9 @@
-from pathlib import Path
-import json
+from .loader import load_data
 
 
 def generate_diff(file1: str, file2: str):
-    data1 = json.load(open(Path(file1)))
-    data2 = json.load(open(Path(file2)))
+    data1 = load_data(file1)
+    data2 = load_data(file2)
     diff = sort_keys(data1, data2)
     result = []
     for key, info in sorted(diff.items(), key=lambda x: x[0]):
